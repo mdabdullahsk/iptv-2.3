@@ -43,7 +43,7 @@
     {
       "name": "Colors Bangla",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/Colors_Bangla.png",
-      "url": ""
+      "url": "http://180.94.28.28:8097/COLORS-BANGLA/index.fmp4.m3u8"
     },
     {
       "name": "ENTERR 10",
@@ -53,7 +53,7 @@
     {
       "name": "Jalsha Movies",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/jalshamovies.png",
-      "url": ""
+      "url": "http://180.94.28.28:8097/JALSHA-MOVIES/index.fmp4.m3u8"
     },
     {
       "name": "Kolkata TV",
@@ -68,7 +68,7 @@
     {
       "name": "Star Jalsha",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/starjalsha.png",
-      "url": ""
+      "url": "http://180.94.28.28:8097/STAR-JALSHA/index.fmp4.m3u8"
     },
     {
       "name": "TV9 Bangla",
@@ -78,7 +78,7 @@
     {
       "name": "Zee Bangla",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/zeebangla.png",
-      "url": ""
+      "url": "http://180.94.28.28:8097/ZEE-BANGLA/index.fmp4.m3u8"
     },
     {
       "name": "ZEE 24 GHANTA",
@@ -93,7 +93,7 @@
     {
       "name": "BIJOY TV",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/BIJOY_TV_Logo_BD.png",
-      "url": ""
+      "url": "https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8"
     },
     {
       "name": "Boishakhi TV",
@@ -103,7 +103,7 @@
     {
       "name": "BTV",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/btv.png",
-      "url": ""
+      "url": "http://180.94.28.28:8097/BTV/index.fmp4.m3u8"
     },
     {
       "name": "BTV Chattogram",
@@ -303,7 +303,7 @@
     {
       "name": "RAJDHANI TV",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/rajdhanitv.png",
-      "url": ""
+      "url": "https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8"
     },
     {
       "name": "SA TV",
@@ -313,7 +313,7 @@
     {
       "name": "Somoy TV",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/somoytv.png",
-      "url": "http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1"
+      "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
     },
     {
       "name": "STAR NEWS",
@@ -328,37 +328,37 @@
     {
       "name": "T Sports",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/tsports.png",
-      "url": "http://linux-desktop-production.up.railway.app/tsports/index.m3u8"
+      "url": "http://103.165.93.31:8095/tsports/video.m3u8"
     },
     {
       "name": "A Sports",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/asports.png",
-      "url": "https://tvsen6.aynaott.com/asports/index.m3u8"
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8"
     },
     {
       "name": "Star Sports 1",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/starsports1.png",
-      "url": "https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8"
+      "url": "http://180.94.28.28:8097/STAR-SPORTS-1/index.m3u8"
     },
     {
       "name": "Star Sports 2",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/starsports2.png",
-      "url": "http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8"
+      "url": "http://180.94.28.28:8097/Star-Sports-2/index.m3u8"
     },
     {
       "name": "Sony Sports Ten 1",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/sonysportsten1.png",
-      "url": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8"
+      "url": "http://180.94.28.28:8097/Sony-Ten-1/index.m3u8"
     },
     {
       "name": "Sony Sports Ten 2",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/sonysportsten2.png",
-      "url": "https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8"
+      "url": "http://180.94.28.28:8097/Sony-Ten-2/index.m3u8"
     },
     {
       "name": "Sony Sports Ten 5",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/sonysportsten5.png",
-      "url": "https://stream.ottplus.bd/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8"
+      "url": "http://180.94.28.28:8097/Sony-Ten-5/index.m3u8"
     },
     {
       "name": "Ten Cricket HD",
@@ -368,7 +368,7 @@
     {
       "name": "Ptv Sports",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/ptvsports.png",
-      "url": "http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8"
+      "url": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8"
     },
     {
       "name": "Fox Sports",
