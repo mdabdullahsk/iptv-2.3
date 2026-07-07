@@ -381,6 +381,16 @@
       "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
     },
     {
+      "name": "Star Sports Select 1",
+      "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/185x0-icon.png",
+      "url": "http://180.94.28.28:8097/Star-Sports-Select-1/index.m3u8"
+    },
+    {
+      "name": "star Sports Select 2",
+      "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/download.png",
+      "url": "http://180.94.28.28:8097/star-Sports-Select-2/index.m3u8"
+    },
+    {
       "name": "Bein Sports",
       "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/beinsports.png",
       "url": "https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8"
